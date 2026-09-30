@@ -1,0 +1,10 @@
+{
+    "video_source": "sample_workout_squats",
+    "total_frames_processed": 180,
+    "total_time_seconds": 5.94,
+    "average_fps": 30.3,
+    "exercise": "squat",
+    "total_repetition_count": 1,
+    "estimated_calories_kcal": 0.32,
+    "output_video": "output\\sample_workout_squats_rep_counter_output.mp4"
+}
